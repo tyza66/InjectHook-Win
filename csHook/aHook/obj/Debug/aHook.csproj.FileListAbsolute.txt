@@ -1,0 +1,6 @@
+D:\Project\InjectHook-Win\csHook\aHook\bin\Debug\aHook.dll
+D:\Project\InjectHook-Win\csHook\aHook\bin\Debug\aHook.pdb
+D:\Project\InjectHook-Win\csHook\aHook\obj\Debug\aHook.csproj.AssemblyReference.cache
+D:\Project\InjectHook-Win\csHook\aHook\obj\Debug\aHook.csproj.CoreCompileInputs.cache
+D:\Project\InjectHook-Win\csHook\aHook\obj\Debug\aHook.dll
+D:\Project\InjectHook-Win\csHook\aHook\obj\Debug\aHook.pdb

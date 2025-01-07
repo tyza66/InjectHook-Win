@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+D:\Project\InjectHook-Win\csHook\cHeader\dllmain.cpp : warning C4747: 调用托管“DllMain”: 托管代码可能未运行在加载程序锁下，包括 DLL 入口点和从 DLL 入口点访问到的调用
+  dllmain.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  cHeader.vcxproj -> D:\Project\InjectHook-Win\csHook\aHook\x64\Debug\cHeader.dll

@@ -1,0 +1,2 @@
+D:\Project\InjectHook-Win\csHook\cHeader\x64\Debug\cHeader.vcxproj.AssemblyReference.cache
+D:\Project\InjectHook-Win\csHook\cHeader\x64\Debug\cHeader.vcxproj.CopyComplete
